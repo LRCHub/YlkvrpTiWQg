@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "youthful beautiful",
+  "base_artist": "内田真礼",
+  "createdAt": "2025-12-18T13:53:47.181837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Youthful Beautiful",
+      "artist": "内田真礼",
+      "has_synced": true,
+      "path": "select/01_Youthful_Beautiful_内田真礼.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Youthful Beautiful",
+      "artist": "Maaya Uchida",
+      "has_synced": true,
+      "path": "select/02_Youthful_Beautiful_Maaya_Uchida.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "youthful beautiful",
+      "artist": "内田真礼",
+      "has_synced": true,
+      "path": "select/03_youthful_beautiful_内田真礼.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Youthful Beautiful",
+      "artist": "Maaya Uchida",
+      "has_synced": true,
+      "path": "select/04_Youthful_Beautiful_Maaya_Uchida.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "youthful beautiful",
+      "artist": "內田真禮",
+      "has_synced": true,
+      "path": "select/05_youthful_beautiful_內田真禮.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Youthful Beautiful (TV Edit)",
+      "artist": "Maaya Uchida",
+      "has_synced": false,
+      "path": "select/06_Youthful_Beautiful_(TV_Edit)_Maaya_Uchida.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "youthful beautiful<TV edit>",
+      "artist": "内田真礼",
+      "has_synced": false,
+      "path": "select/07_youthful_beautiful_TV_edit_内田真礼.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "youthful beautiful",
+      "artist": "内田真礼",
+      "has_synced": false,
+      "path": "select/pl_01_youthful_beautiful_内田真礼.txt"
+    }
+  ]
+}
